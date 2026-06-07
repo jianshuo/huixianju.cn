@@ -13,3 +13,4 @@ wp-json-data/
 *wordpress*.sql
 *.zip
 .gstack/
+*.tar.gz
